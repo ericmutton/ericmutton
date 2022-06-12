@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Eric Mutton
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)]()
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/ericmutton/ericmutton/blob/main/resume/resume-5-31-22.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-mutton/)
 
 - 👀 I’m interested in computers and electronics
